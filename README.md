@@ -1,0 +1,1 @@
+Sistema desenvolvido por Tiago Vieira para controle pessoal das reciclagens de vigilantes de uma empresa de terceirização de serviços, com algumas modificações ao decorrer do tempo, feito do modo mais simples possível, pois o tempo era curto para ter um maior controle das reciclagens e envio dos mesmos para a reciclagem quando essa estava vencendo.
